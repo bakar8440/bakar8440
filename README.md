@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Abu Bakar
+### Hi 👋, I'm Abu Bakar
 #### I'm a front end web developer
 👋 Hello there! I'm Abu Bakar, a passionate front-end web developer with a keen eye for aesthetics and a love for creating engaging user experiences.
 
