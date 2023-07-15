@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Abu Bakar
+#### I'm a front end web developer
+👋 Hello there! I'm Abu Bakar, a passionate front-end web developer with a keen eye for aesthetics and a love for creating engaging user experiences.
 
-<!--
-**bakar8440/bakar8440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JS / C / Jquery / bootstrap
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C++ 
+- 👯 I’m looking to collaborate on GitHub 
+- 📫 How to reach me: bakar75060@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bakar8440)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-abu-bakar-bb204027b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mohammad.abii.9/)  
+
